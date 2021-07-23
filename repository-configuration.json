@@ -5,7 +5,7 @@
     },
     "repositories": [
         {
-            "dataDir": "",
+            "dataDir": "$WORKSPACE/embolddata",
             "repository": {
                 "uid": "b221142d469424a48d135c4a3b9b1dc2",
                 "projectName": "html test",
@@ -13,7 +13,7 @@
                     "HTML"
                 ],
                 "sources": {
-                    "baseDir": "",
+                    "baseDir": "$WORKSPACE",
                     "exclusions": [
                         "test"
                     ]
